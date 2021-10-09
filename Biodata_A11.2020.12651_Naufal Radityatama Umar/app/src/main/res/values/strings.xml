@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="alamat">alamat</string>
+    <string name="email">email</string>
+    <string name="nomorhape">Nomor Hape</string>
+    <string name="namaSaya">Naufal Radityatama Umar</string>
+    <string name="nim">A11.2020.12651</string>
+    <string name="hobi">Travelling</string>
+</resources>
