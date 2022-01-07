@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613530498078",
+    "project_id": "aplikasimenumakanan",
+    "storage_bucket": "aplikasimenumakanan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613530498078:android:b79cfeb2a11487f3632a0f",
+        "android_client_info": {
+          "package_name": "com.example.android.aplikasimenumakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613530498078-vj7q0u4fd6as016701k7kt3k5olrn7ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxO1bKORrL9saAXWzy_q9FrIpeAU7diTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613530498078-vj7q0u4fd6as016701k7kt3k5olrn7ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
